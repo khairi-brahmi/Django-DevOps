@@ -4,7 +4,8 @@ from rest_framework.schemas import get_schema_view
 from django.views.generic import TemplateView
 urlpatterns = [
     path('api', include('api.urls')),
-    path('admin/', admin.site.urls),
+    path('users', include('users.urls')),
+    #path('admin/', admin.site.urls),
     path('openapi/', get_schema_view(
         title="Test APIs",
         description="API developers hpoing to use our service"
