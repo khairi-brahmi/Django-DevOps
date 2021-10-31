@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'allauth',
     'users',
+    "pandas",
+    "sklearn",
+    "pickle",
 ]
 
 MIDDLEWARE = [
