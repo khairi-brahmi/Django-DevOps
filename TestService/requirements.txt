@@ -6,3 +6,4 @@ djangorestframework==3.12.4
 scikit_learn==1.0.1
 psycopg2-binary
 django-rest-swagger
+pyyaml
