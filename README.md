@@ -25,7 +25,7 @@ Build the Stack
 
 This can take a while, especially the first time you run this particular command on your development system::
 
-    $ docker-compose -f local.yml build 
+    $ docker-compose -f docker-compose.yml build 
     
  
 Run commands
