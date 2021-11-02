@@ -1,6 +1,5 @@
 # Django-DevOps
 
-=================
 Developer : Khairi Brahmi
 ***
 Phone : +21622449506
